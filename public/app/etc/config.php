@@ -1,6 +1,6 @@
 <?php
 return array (
-  'modules' => 
+  'modules' =>
   array (
     'Magento_Store' => 1,
     'Magento_AdvancedPricingImportExport' => 1,
@@ -120,5 +120,6 @@ return array (
     'Magento_WidgetSampleData' => 1,
     'Magento_Wishlist' => 1,
     'Magento_WishlistSampleData' => 1,
+    'Pulsestorm_HelloWorldMVVM'=> 1,
   ),
 );
